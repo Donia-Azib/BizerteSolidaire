@@ -1,4 +1,4 @@
-package com.ndroid.elaliasolidaire
+package com.ndroid.mjsolidaire
 
 import android.content.Context
 import android.content.Intent
@@ -11,6 +11,7 @@ import android.view.inputmethod.InputMethodManager
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.database.FirebaseDatabase
+import com.ndroid.mjsolidaire.R
 import kotlinx.android.synthetic.main.new_services_activity.*
 import java.text.SimpleDateFormat
 import java.util.*

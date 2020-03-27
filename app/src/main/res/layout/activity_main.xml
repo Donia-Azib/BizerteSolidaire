@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
-    tools:context=".MainActivity">
+    android:background="@drawable/bat"
+    tools:context="com.ndroid.mjsolidaire.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -23,7 +23,7 @@
             android:layout_gravity=""
             android:textColor="#fff"
             android:layout_marginBottom="10dp"
-            android:text="مدينة العالية"/>
+            android:text="مدينة منزل جميل"/>
 
         <TextView
             android:layout_width="wrap_content"

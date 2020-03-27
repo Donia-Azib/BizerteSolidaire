@@ -17,7 +17,7 @@
             android:layoutDirection="rtl"
             android:orientation="vertical"
             android:padding="16dp"
-            tools:context=".NewServiceActivity">
+            tools:context="com.ndroid.mjsolidaire.NewServiceActivity">
 
 
             <TextView

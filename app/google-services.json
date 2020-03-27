@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "530531383396",
+    "firebase_url": "https://majjmilsolidaire.firebaseio.com",
+    "project_id": "majjmilsolidaire",
+    "storage_bucket": "majjmilsolidaire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530531383396:android:469d788754bb7f55bf4771",
+        "android_client_info": {
+          "package_name": "com.ndroid.elaliasolidaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530531383396-mvui185dcfb86m3dl6n3hfnqvd129taa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndroid.elaliasolidaire",
+            "certificate_hash": "e10c28c5930416688591aade1c37fd6e2b936e31"
+          }
+        },
+        {
+          "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqXjD8tBuZBNMOE4D03xclLPJ5RQoi2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530531383396:android:5d75cb2466b1688dbf4771",
+        "android_client_info": {
+          "package_name": "com.ndroid.elaliasolidaireadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530531383396-736g897dprl1tfouu721t74ja9tgjlm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndroid.elaliasolidaireadmin",
+            "certificate_hash": "e10c28c5930416688591aade1c37fd6e2b936e31"
+          }
+        },
+        {
+          "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqXjD8tBuZBNMOE4D03xclLPJ5RQoi2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530531383396:android:15f25215dbbf81f8bf4771",
+        "android_client_info": {
+          "package_name": "com.ndroid.mjsolidaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530531383396-2jcc3thie4hidb80qgsk1gh1d53snkpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndroid.mjsolidaire",
+            "certificate_hash": "e10c28c5930416688591aade1c37fd6e2b936e31"
+          }
+        },
+        {
+          "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqXjD8tBuZBNMOE4D03xclLPJ5RQoi2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530531383396-od7ss8gcuuv6qesb7lkqu0aib9l293s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

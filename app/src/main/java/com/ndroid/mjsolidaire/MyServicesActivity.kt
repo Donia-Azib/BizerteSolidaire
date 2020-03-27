@@ -1,4 +1,4 @@
-package com.ndroid.elaliasolidaire
+package com.ndroid.mjsolidaire
 
 import android.content.Context
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.database.*
+import com.ndroid.mjsolidaire.R
 import kotlinx.android.synthetic.main.activity_my_services.*
 
 

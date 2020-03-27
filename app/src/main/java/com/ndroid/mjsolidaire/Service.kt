@@ -1,4 +1,4 @@
-package com.ndroid.elaliasolidaire
+package com.ndroid.mjsolidaire
 
 class Service() {
 
